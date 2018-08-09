@@ -4,6 +4,8 @@ import java.util.regex.Pattern;
 /**
  * 请参考java.util.regex.Pattern的文档，编写一个正则表达式，检查一个句子
  * 是否以大写字母开头，以句号结尾。
+ *
+ * \\p{Upper}表示大写字母，
  * @author Li Yan
  */
 public class E07_SentenceChecker {
