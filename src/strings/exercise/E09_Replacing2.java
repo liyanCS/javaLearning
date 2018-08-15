@@ -1,4 +1,5 @@
 package strings.exercise;
+import javax.jws.WebService;
 
 /**
  * @author Li Yan
